@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<alunos>
+	<aluno><nome>João</nome><nota>8.5</nota></aluno>
+	<aluno><nome>Catarina</nome><nota>9.0</nota></aluno>
+	<aluno><nome>Sophia</nome><nota>7.5</nota></aluno>
+</alunos>
