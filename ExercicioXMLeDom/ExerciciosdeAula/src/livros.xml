@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<catalogo>
+
+    <livro>
+        <titulo>Java Básico</titulo>
+        <autor>Lauane Santana</autor>
+        <preco>59.90</preco>
+    </livro>
+
+    <livro>
+        <titulo>Estruturas de Dados</titulo>
+        <autor>Catarina Alexandre</autor>
+        <preco>75.50</preco>
+    </livro>
+
+    <livro>
+        <titulo>POO com Java</titulo>
+        <autor>Eliete Kipplel</autor>
+        <preco>89.90</preco>
+    </livro>
+
+</catalogo>
